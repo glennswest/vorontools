@@ -6,5 +6,6 @@ is dedicated to 3dprints/scripts and others related to building a voron printer.
 
 
 ### zspacer.stl
+![My Image](zspacer.png)
 
 
